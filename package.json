@@ -1,0 +1,6 @@
+{
+  "name"    : "runtime",
+  "vendor"  : "browser",
+  "version" : "0.0.1",
+  "main"    : "index"
+}
