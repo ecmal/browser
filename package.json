@@ -1,0 +1,27 @@
+{
+  "name": "browser",
+  "vendor": "ecmal",
+  "version": "0.0.1",
+  "main": "index",
+  "directories": {
+    "source": "src",
+    "output": "out",
+    "vendor": "out"
+  },
+  "modules": {
+    "index": {
+      "name": "index",
+      "version": "2f336cdc4a11502b738f76ad9805aa78",
+      "size": 528281,
+      "hash": "2f336cdc4a11502b738f76ad9805aa78",
+      "files": {
+        ".d.ts": {
+          "ext": ".d.ts",
+          "hash": "2f336cdc4a11502b738f76ad9805aa78",
+          "size": 528281,
+          "sha": "4bb5b06f14cbc669614a2d01cc0aba7721deab91"
+        }
+      }
+    }
+  }
+}
