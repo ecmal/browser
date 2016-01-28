@@ -1,0 +1,17 @@
+{
+  "name": "browser",
+  "vendor": "ecmal",
+  "version": "0.0.1",
+  "main": "index",
+  "directories": {
+    "source": "src",
+    "output": "out",
+    "vendor": "out"
+  },
+  "modules": {
+    "index": {
+      "name": "index",
+      "version": "2f336cdc4a11502b738f76ad9805aa78"
+    }
+  }
+}
